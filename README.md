@@ -1,4 +1,4 @@
-add master ADD MASETER
+ADD DEV
 # gitskills
 branch dev
 ADD BARANCH
